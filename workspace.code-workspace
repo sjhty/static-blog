@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\gridsome-forestry-starter-master"
+		},
+		{
+			"path": "..\\strapi-project"
+		}
+	],
+	"settings": {}
+}
