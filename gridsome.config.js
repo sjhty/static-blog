@@ -38,7 +38,7 @@ module.exports = {
     {
       use: "@gridsome/source-strapi",
       options: {
-        apiURL: "http://49.234.12.142:1337",
+        apiURL: "http://www.ui-smile.com:1337",
         queryLimit: 1000,
         contentTypes: ['journals', 'projects'],
         //singleTypes: [],
